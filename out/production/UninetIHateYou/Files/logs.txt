@@ -1,0 +1,160 @@
+001 Aybek Abdullayev, ADMIN logged into system at Sun Nov 25 02:25:06 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Sun Nov 25 02:26:57 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Sun Nov 25 02:28:46 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Sun Nov 25 02:28:51 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:29:09 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:30:12 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:30:53 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:32:35 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:33:16 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:33:19 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:34:03 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Sun Nov 25 02:34:57 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Sun Nov 25 02:37:04 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Sun Nov 25 02:37:14 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Sun Nov 25 02:37:25 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:38:10 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:38:19 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:38:24 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:38:37 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:38:45 ALMT 2018
+Sun Nov 25 02:39:23 ALMT 2018 - ID: PP1; PP1, 4 credits course is added
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:39:23 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:39:48 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:39:53 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:40:15 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:40:29 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:40:42 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:40:45 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Sun Nov 25 02:45:38 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:45:56 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:45:58 ALMT 2018
+Sun Nov 25 02:47:21 ALMT 2018 - ID: pp12018; PP1, 4 credits course is added
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:47:21 ALMT 2018
+Sun Nov 25 02:47:50 ALMT 2018 - ID: calc1; Calculus1, 4 credits course is added
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:47:50 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:47:54 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:48:12 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:48:19 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:48:42 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:48:56 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:48:59 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Sun Nov 25 02:50:52 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:50:58 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:51:05 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:51:23 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:51:31 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Sun Nov 25 02:51:35 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:53:11 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 02:53:34 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:53:47 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:53:53 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:55:52 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:55:55 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:56:06 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:56:20 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:56:40 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Sun Nov 25 02:57:54 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 03:00:35 ALMT 2018
+Sun Nov 25 03:00:48 ALMT 2018 - ID: pp1; pp1, 4 credits course is added
+005 OR 1, MANAGER logged into system at Sun Nov 25 03:00:48 ALMT 2018
+Sun Nov 25 03:01:08 ALMT 2018 - ID: calc1; calculus1, 4 credits course is added
+005 OR 1, MANAGER logged into system at Sun Nov 25 03:01:08 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 03:01:15 ALMT 2018
+005 OR 1, MANAGER logged into system at Sun Nov 25 03:01:19 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Sun Nov 25 03:01:52 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Sun Nov 25 03:03:05 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Sun Nov 25 03:03:16 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Sun Nov 25 03:03:30 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Sun Nov 25 03:03:35 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 19:47:54 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 19:48:54 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 20:27:27 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 20:32:38 ALMT 2018
+Mon Nov 26 20:34:13 ALMT 2018 - ID: 001 Access rights: ADMIN Name: Aybek Surname: Abdullayev is removed from the system
+Mon Nov 26 20:34:36 ALMT 2018 - new user ID: 001 Access rights: ADMIN Name: Aybek Surname: Abdullayev is added
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 20:36:30 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 20:45:45 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Mon Nov 26 20:46:22 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Mon Nov 26 20:46:40 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Mon Nov 26 20:50:18 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Mon Nov 26 20:51:10 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Mon Nov 26 20:52:25 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Mon Nov 26 20:56:32 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Mon Nov 26 20:57:23 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Mon Nov 26 23:09:48 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Mon Nov 26 23:49:46 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Mon Nov 26 23:57:30 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Mon Nov 26 23:58:22 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:00:01 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:04:27 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:10:34 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:11:51 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:16:40 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:18:45 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 00:18:57 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:20:01 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 00:20:43 ALMT 2018
+Tue Nov 27 00:21:28 ALMT 2018 - ID: c001; PP1, 4 credits course is added
+Tue Nov 27 00:22:26 ALMT 2018 - ID: c002; Calculus2, 4 credits course is added
+Tue Nov 27 00:24:12 ALMT 2018 - password is changed
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 00:24:22 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:41:46 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 00:42:02 ALMT 2018
+002 Roman Savoskin, TECHSUPPORT logged into system at Tue Nov 27 00:44:57 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 00:45:06 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Tue Nov 27 00:45:57 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 00:46:14 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 00:46:49 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 00:48:29 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Tue Nov 27 01:17:40 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Tue Nov 27 01:19:33 ALMT 2018
+s - Tue Nov 27 01:19:53 ALMT 2018 is updated
+005 OR 1, MANAGER logged into system at Tue Nov 27 01:20:44 ALMT 2018
+Tue Nov 27 01:21:05 ALMT 2018 - ID: c001; PP1, 4 credits course is added
+Tue Nov 27 01:21:50 ALMT 2018 - ID: c002; Calculus, 2 credits course is added
+001 Aybek Abdullayev, ADMIN logged into system at Tue Nov 27 02:27:00 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:27:29 ALMT 2018
+Tue Nov 27 02:29:28 ALMT 2018 - ID: PP1; PP1, 4 credits course is added
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:29:48 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Tue Nov 27 02:29:57 ALMT 2018
+s - Tue Nov 27 02:30:14 ALMT 2018 is updated
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:30:22 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:37:00 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:38:33 ALMT 2018
+Tue Nov 27 02:38:55 ALMT 2018 - ID: c001; Calculus II, 4 credits course is added
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:39:17 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:42:12 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:43:10 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:43:23 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:44:31 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:44:37 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:45:57 ALMT 2018
+Tue Nov 27 02:46:17 ALMT 2018 - ID: c001; PP1, 4 credits course is added
+Tue Nov 27 02:47:20 ALMT 2018 - ID: c002; Calculus II, 4 credits course is added
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 02:47:32 ALMT 2018
+001 Aybek Abdullayev, ADMIN logged into system at Tue Nov 27 02:47:47 ALMT 2018
+Tue Nov 27 02:48:13 ALMT 2018 - new user ID: 009 Access rights: TEACHER Name: Alimzhan Surname: Amanov is added
+005 OR 1, MANAGER logged into system at Tue Nov 27 02:48:23 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 02:48:53 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Tue Nov 27 02:50:01 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 02:51:15 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:00:08 ALMT 2018
+005 OR 1, MANAGER logged into system at Tue Nov 27 03:01:01 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:01:18 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 03:02:06 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:04:04 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 03:05:04 ALMT 2018
+Tue Nov 27 03:05:18 ALMT 2018 - password is changed
+003 Fuad Bey, TEACHER logged into system at Tue Nov 27 03:05:27 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:06:26 ALMT 2018
+003 Fuad Bey, TEACHER logged into system at Tue Nov 27 03:11:40 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:12:11 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:13:41 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:16:50 ALMT 2018
+007 Ber Ik, STUDENT logged into system at Tue Nov 27 03:19:04 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 03:22:18 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 03:24:02 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 03:29:54 ALMT 2018
+004 Beisenbek Baisakov, TEACHER logged into system at Tue Nov 27 03:30:38 ALMT 2018
+006 Ser Ik, STUDENT logged into system at Tue Nov 27 03:30:55 ALMT 2018

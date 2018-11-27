@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9be0bc9d-f9e2-416f-bb58-bcff236535db" name="Default Changelist" comment="txt -&gt; out" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Users/Admin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-594">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#printUsers#0;class#Admin#0" />
+                <element signature="method#getUserActions#0;class#Admin#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Users/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1100">
+              <caret line="131" column="9" lean-forward="true" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#openCourse#0;class#Teacher#0" />
+                <element signature="method#dropStudent#0;class#Teacher#0" />
+                <element signature="method#addStudent#0;class#Teacher#0" />
+                <element signature="method#viewEmails#0;class#Teacher#0" />
+                <element signature="method#viewOldEmails#0;class#Teacher#0" />
+                <element signature="method#viewCourses#0;class#Teacher#0" />
+                <element signature="method#viewStudents#0;class#Teacher#0" />
+                <element signature="method#sendOrder#0;class#Teacher#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Functions/ChangeFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5376">
+              <caret line="263" column="68" selection-start-line="263" selection-start-column="68" selection-end-line="263" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#techSupportGuyChange#0;class#ChangeFunctions#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WorkSpace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Files/logs.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Users/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2037">
+              <caret line="128" column="29" selection-start-line="128" selection-start-column="29" selection-end-line="128" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#removeCourse#0;class#Manager#0" />
+                <element signature="method#viewCourses#0;class#Manager#0" />
+                <element signature="method#viewTeachers#0;class#Manager#0" />
+                <element signature="method#addTeacherToCourse#0;class#Manager#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Users/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#registerCourse#0;class#Student#0" />
+                <element signature="method#getMark#0;class#Student#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exceptions/InvalidYearException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Users/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Users/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="UML Class" />
+        <option value="UML Activity" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>map</find>
+      <find>``</find>
+      <find>manager</find>
+      <find>Admin</find>
+      <find>Manager</find>
+      <find>.txt</find>
+      <find>public</find>
+      <find>private</find>
+      <find>Files</find>
+      <find>System.out.println(&quot;Не ваш день&quot;);</find>
+      <find>viewcou`</find>
+      <find>DAUREN YERBOLOV</find>
+      <find>cred</find>
+      <find>student</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Teacher</replace>
+      <replace>TechSupport</replace>
+      <replace>Course</replace>
+      <replace>Student</replace>
+      <replace>.out</replace>
+      <replace>private</replace>
+      <replace>public</replace>
+      <replace>e.printStackTrace();</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Enums/AccessRights.java" />
+        <option value="$PROJECT_DIR$/src/Course/CourseFiles.java" />
+        <option value="$PROJECT_DIR$/src/Users/Order.java" />
+        <option value="$PROJECT_DIR$/src/Files/logs.txt" />
+        <option value="$PROJECT_DIR$/src/Course/Course.java" />
+        <option value="$PROJECT_DIR$/src/Course/CourseFile.java" />
+        <option value="$PROJECT_DIR$/src/Functions/ChangeFunctions.java" />
+        <option value="$PROJECT_DIR$/src/Storage/Storage.java" />
+        <option value="$PROJECT_DIR$/src/Users/Email.java" />
+        <option value="$PROJECT_DIR$/src/Users/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Users/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Users/TechSupport.java" />
+        <option value="$PROJECT_DIR$/src/Enums/TeacherPosition.java" />
+        <option value="$PROJECT_DIR$/src/Users/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/Users/User.java" />
+        <option value="$PROJECT_DIR$/src/Interfaces/View.java" />
+        <option value="$PROJECT_DIR$/src/Exceptions/Exception.java" />
+        <option value="$PROJECT_DIR$/src/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Exceptions/InvalidYearException.java" />
+        <option value="$PROJECT_DIR$/src/WorkSpace.java" />
+        <option value="$PROJECT_DIR$/src/Users/Student.java" />
+        <option value="$PROJECT_DIR$/src/Users/Admin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="390" />
+    <option name="y" value="460" />
+    <option name="width" value="1100" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Intranet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intranet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intranet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intranet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intranet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intranet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intranet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intranet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intranet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intranet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Users" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543340137266" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Lessons\OOP\UninetIHateYou\src\Diagrams" />
+      <recent name="G:\Lessons\OOP\UninetIHateYou\src\Files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WorkSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WorkSpace" />
+      <module name="Intranet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WorkSpace" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9be0bc9d-f9e2-416f-bb58-bcff236535db" name="Default Changelist" comment="" />
+      <created>1542026616682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542026616682</updated>
+      <workItem from="1543330784579" duration="7349000" />
+      <workItem from="1543338277547" duration="486000" />
+      <workItem from="1543338803440" duration="1869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9704000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="simpleUML" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49836066" visible="true" weight="0.1785235" />
+      <window_info id="Structure" order="6" sideWeight="0.50163937" side_tool="true" weight="0.33509833" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.21246459" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.30736545" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.3295302" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24962178" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49836066" visible="true" weight="0.17516778" />
+      <window_info id="Structure" order="6" sideWeight="0.50163937" side_tool="true" weight="0.33509833" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.21246459" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.5442623" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24962178" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="txt -&gt; out" />
+    <option name="LAST_COMMIT_MESSAGE" value="txt -&gt; out" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Storage.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/Serializable.java" />
+    <entry file="file://$PROJECT_DIR$/src/Course/CourseFiles.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Enum.java" />
+    <entry file="file://$PROJECT_DIR$/src/Files/Users.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/Managers.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/Courses.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/TechSupportGuys.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/Managers.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Files/Admins.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Documentation/OOP_Case_Diagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/Teachers.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Map.java" />
+    <entry file="file://$PROJECT_DIR$/src/Files/Students.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Functions.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Vector.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/Driver.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/com/sun/java/util/jar/pack/Driver.class" />
+    <entry file="file://$PROJECT_DIR$/src/Course/CourseFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enums/AccessRights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/TechSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enums/TeacherPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Storage/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#saveAdmins#0;class#Storage#0" />
+            <element signature="method#getStudents#0;class#Storage#0" />
+            <element signature="method#saveStudents#0;class#Storage#0" />
+            <element signature="method#getTeachers#0;class#Storage#0" />
+            <element signature="method#saveTeachers#0;class#Storage#0" />
+            <element signature="method#saveManagers#0;class#Storage#0" />
+            <element signature="method#getTechSupportGuys#0;class#Storage#0" />
+            <element signature="method#getCourses#0;class#Storage#0" />
+            <element signature="method#saveCourses#0;class#Storage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course/Uml.puml" />
+    <entry file="file://$PROJECT_DIR$/src/UML.puml" />
+    <entry file="file://$PROJECT_DIR$/src/Functions/ChangeFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5376">
+          <caret line="263" column="68" selection-start-line="263" selection-start-column="68" selection-end-line="263" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#techSupportGuyChange#0;class#ChangeFunctions#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Files/logs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="128" column="29" selection-start-line="128" selection-start-column="29" selection-end-line="128" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#removeCourse#0;class#Manager#0" />
+            <element signature="method#viewCourses#0;class#Manager#0" />
+            <element signature="method#viewTeachers#0;class#Manager#0" />
+            <element signature="method#addTeacherToCourse#0;class#Manager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#registerCourse#0;class#Student#0" />
+            <element signature="method#getMark#0;class#Student#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exceptions/InvalidYearException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umldiagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">Users.Order</node>
+            <node x="" y="">Users.Admin</node>
+            <node x="" y="">Driver</node>
+            <node x="" y="">Enums.AccessRights</node>
+            <node x="" y="">Interfaces.View</node>
+            <node x="" y="">WorkSpace</node>
+            <node x="" y="">Users.TechSupport</node>
+            <node x="" y="">Users.User</node>
+            <node x="" y="">Users.Employee</node>
+            <node x="" y="">Course.CourseFile</node>
+            <node x="" y="">Users.Teacher</node>
+            <node x="" y="">Course.Course</node>
+            <node x="" y="">Storage.Storage</node>
+            <node x="" y="">Enums.TeacherPosition</node>
+            <node x="" y="">Users.Email</node>
+            <node x="" y="">Users.Manager</node>
+            <node x="" y="">Users.Student</node>
+            <node x="" y="">Exceptions.InvalidYearException</node>
+            <node x="" y="">Functions.ChangeFunctions</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.16460489775309264" x="1263.0" y="1970.5000000000002" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printUsers#0;class#Admin#0" />
+            <element signature="method#getUserActions#0;class#Admin#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Users/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="131" column="9" lean-forward="true" selection-start-line="131" selection-start-column="9" selection-end-line="131" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#openCourse#0;class#Teacher#0" />
+            <element signature="method#dropStudent#0;class#Teacher#0" />
+            <element signature="method#addStudent#0;class#Teacher#0" />
+            <element signature="method#viewEmails#0;class#Teacher#0" />
+            <element signature="method#viewOldEmails#0;class#Teacher#0" />
+            <element signature="method#viewCourses#0;class#Teacher#0" />
+            <element signature="method#viewStudents#0;class#Teacher#0" />
+            <element signature="method#sendOrder#0;class#Teacher#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Intranet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

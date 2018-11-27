@@ -1,0 +1,21 @@
+001 Dauren Yerbolov, ADMIN logged into system at Tue Nov 27 22:29:34 ALMT 2018
+002 New user Alibek Sayal, STUDENT is added into the system at Tue Nov 27 22:29:42 ALMT 2018
+001 Added new user at Tue Nov 27 22:29:42 ALMT 2018
+003 New user Rauza A, TEACHER is added into the system at Tue Nov 27 22:29:57 ALMT 2018
+001 Added new user at Tue Nov 27 22:29:57 ALMT 2018
+002 Alibek Sayal, STUDENT logged into system at Tue Nov 27 22:30:10 ALMT 2018
+001 Dauren Yerbolov, ADMIN logged into system at Tue Nov 27 22:30:18 ALMT 2018
+004 New user Assyl B, MANAGER is added into the system at Tue Nov 27 22:30:28 ALMT 2018
+001 Added new user at Tue Nov 27 22:30:28 ALMT 2018
+004 Assyl B, MANAGER logged into system at Tue Nov 27 22:30:32 ALMT 2018
+Tue Nov 27 22:31:11 ALMT 2018 - ID: 2281337; OOP, 0 credits course is added
+002 Alibek Sayal, STUDENT logged into system at Tue Nov 27 22:31:15 ALMT 2018
+001 Dauren Yerbolov, ADMIN logged into system at Tue Nov 27 22:48:31 ALMT 2018
+005 New user DIko Miko, STUDENT is added into the system at Tue Nov 27 22:49:16 ALMT 2018
+001 Added new user at Tue Nov 27 22:49:16 ALMT 2018
+001 Dauren Yerbolov, ADMIN logged into system at Tue Nov 27 22:50:02 ALMT 2018
+Tue Nov 27 22:50:16 ALMT 2018 - ID: 004 Access rights: MANAGER Name: Assyl Surname: B is removed from the system
+001 Deleted user at Tue Nov 27 22:50:16 ALMT 2018
+001 Dauren Yerbolov, ADMIN logged into system at Tue Nov 27 22:55:25 ALMT 2018
+001 Dauren Yerbolov, ADMIN logged into system at Tue Nov 27 22:57:28 ALMT 2018
+001 Added new user at Tue Nov 27 22:57:34 ALMT 2018
